@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://www.cyberpunk.net.ar/images/cyberpar.png" />
-</p>
-
 <p>
 hi, i’m mauro <sup><a rel="pgpkey authn" href="https://www.cyberpunk.net.ar/mauro@sdf.org.pub">GPG</a></sup>, a <s>debian developer^W^W</s> <s>live coder^W^W</s> <s>art student^W^W</s> software developer currently living in buenos aires, argentina.
 </p>
