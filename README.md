@@ -25,7 +25,7 @@ hi, i’m mauro <sup><a rel="pgpkey authn" href="https://www.cyberpunk.net.ar/ma
   <li><a href="https://hub.docker.com/u/lvm23/">docker hub</a>, my public docker image library</li>
   <li><a href="https://ikag.github.io/">ika g</a>, a livecoding duo focused on music</li>
   <li><a href="http://23chambers.itch.io/">23 chambers of shaolin</a>, a one-man-game-making-team</li>
-  <li><a href="https://soundcloud.com/aka_mauro">soundcloud</a>, from source code to audio</li>
+  <li><a href="https://soundcloud.com/l23mn">soundcloud</a>, from source code to audio</li>
   <li><s><a href="http://nubedesonido.cyberpunk.com.ar/">nubedesonido</a>, from source code to audio</s></li>
   <li><a href="https://archive.org/details/@1vm">archive.org/@1vm</a>, from source code to audio (archive)</li>
   <li><a href="https://vimeo.com/1vm">vimeo</a>, from source code to video</li>
