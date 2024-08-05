@@ -7,7 +7,7 @@ hi, i’m mauro <sup><a rel="pgpkey authn" href="https://www.cyberpunk.net.ar/ma
 <h2 id="current-projects">current projects</h2>
 
 <ul>
-  <li><a href="http://www.cyberdelia.party/">cyberdelia.party</a>, plain text plasma from the 23rd century</li>
+  <li><a href="https://cyberpunk.net.ar/cyberdelia/">cyberdelia</a>, plain text plasma from the 23rd century</li>
   <li><a href="http://cyberpunk.net.ar/despuesdelzoia/">despuesdelzoia</a>, a wall of pseudo-3d ascii art</li>
   <li><a href="https://cyberpunk.net.ar/voxfriends/">voxfriends</a>, a bunch of voxel characters</li>
   <li><a href="https://github.com/lvm" rel="me">github</a>, from source code to source code</li>
@@ -23,7 +23,7 @@ hi, i’m mauro <sup><a rel="pgpkey authn" href="https://www.cyberpunk.net.ar/ma
   <li><a href="https://github.com/lvm/liveosc2.sc">LiveOSC2.sc</a>, LiveOSC2 bindings for SuperCollider</li>
   <li><a href="https://github.com/toplap/awesome-livecoding/">awesome-livecoding</a>, all things livecoding</li>
   <li><a href="https://hub.docker.com/u/lvm23/">docker hub</a>, my public docker image library</li>
-  <li><a href="https://ikag.github.io/">ika g</a>, a livecoding duo focused on music</li>
+  <li><s><a href="https://ikag.github.io/">ika g</a>, a livecoding duo focused on music</s></li>
   <li><a href="http://23chambers.itch.io/">23 chambers of shaolin</a>, a one-man-game-making-team</li>
   <li><a href="https://soundcloud.com/l23mn">soundcloud</a>, from source code to audio</li>
   <li><s><a href="http://nubedesonido.cyberpunk.com.ar/">nubedesonido</a>, from source code to audio</s></li>
@@ -31,7 +31,7 @@ hi, i’m mauro <sup><a rel="pgpkey authn" href="https://www.cyberpunk.net.ar/ma
   <li><a href="https://vimeo.com/1vm">vimeo</a>, from source code to video</li>
   <li><a href="https://www.youtube.com/channel/UCjRm4oKqLKQ0VvfTHLRAC2Q/videos">youtube</a>, from source code to video</li>
   <li><a href="https://mastodon.sdf.org/@mauro" rel="me">@mauro at sdf.org</a>, a mastodon account <img src="updated.gif" alt="updated"></li>
-  <li><a href="https://www.npmjs.com/~lvm">~lvm</a>, npm modules</li>
+  <li><s><a href="https://www.npmjs.com/~lvm">~lvm</a>, npm modules</s></li>
   <li><a href="https://nm.debian.org/person/mauro">debian.org</a>, Debian developer emeritus</li>
   <li><a href="https://balc.bandcamp.com/">BALC</a>, B(uenos)A(ires)L(ive)C(ode). NetLabel for Computer Music</li>
   <li><s><a href="http://brutalistwebsites.com/lvm.github.io/">brutalistwebsites</a>, as seen on tv</s></li>
@@ -39,5 +39,4 @@ hi, i’m mauro <sup><a rel="pgpkey authn" href="https://www.cyberpunk.net.ar/ma
   <li><s><a href="http://braincandy.com.ar">braincandy</a>, a web development collective from bs as, argentina</s></li>
   <li><a href="http://arte-electronico.cyberpunk.com.ar/">site arte electronico argentino</a>, artworks and artists of new media and electronic art between 1990s and 2014 in argentina</li>
   <li><a href="http://api.arte-electronico.cyberpunk.com.ar/">api arte electronico argentino</a>, a restful json api of artworks and artists of new media and electronic art between 1990s and 2014 in argentina</li>
-  
 </ul>
